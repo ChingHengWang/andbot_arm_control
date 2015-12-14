@@ -8,11 +8,11 @@
 
 		#define CCW -1 
 
-## Define Axis Type
+## Define Axis Type ClockWise
  
 		#define AXIS_TYPE CW 
 
-## Define Axis Type Counter Clockwise
+## Define Axis Type Counter ClockWise
 
 		#define AXIS_TYPE CCW 
 
